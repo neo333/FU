@@ -19,6 +19,10 @@
 #include <FU/sysLog/FU_MessComm.h>
 /**************************************/
 
+/*********sysHD************************/
+#include <FU/sysHD/FU_HardDisk.h>
+/**************************************/
+
 
 /*********sysCore**********************/
 #include <FU/sysCore/FU_Macro.h>
