@@ -1,0 +1,6 @@
+
+ > MACRO
+	Console (instanza globale oggetto console)
+
+ > Oggetti globali
+	FU_Console
